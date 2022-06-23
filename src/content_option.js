@@ -1,22 +1,22 @@
-const logotext = "JOHN";
+const logotext = "OSMAN";
 const meta = {
-    title: "John Doe",
-    description: "I’m John Doe data scientist _ Full stack devloper,currently working in Berlin",
+    title: "Osman Mohamed",
+    description: "I’m Osman Mohamed data scientist _ Full stack devloper,currently working in Atlanta",
 };
 
 const introdata = {
-    title: "I’m John Doe",
-    animated: {
-        first: "I love coding",
+    title: " Hello! I'm Osman Mohamed",
+        animated: {
+        first: "and I am Full Stack Developer",
         second: "I code cool websites",
         third: "I develop mobile apps",
     },
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum",
-    your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
+    your_img_url: "https://cdn.discordapp.com/attachments/755767703020765189/989361251819868210/Screenshot_2022-06-15_160010.png",
 };
 
 const dataabout = {
-    title: "abit about my self",
+    title: "a bit about my self",
     aboutme: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis dolor id ligula semper elementum feugiat pretium nulla. Nunc non commodo dolor. Nunc mollis dignissim facilisis. Morbi ut magna ultricies.",
 };
 const worktimeline = [{
@@ -136,7 +136,7 @@ const dataportfolio = [{
 ];
 
 const contactConfig = {
-    YOUR_EMAIL: "name@domain.com",
+    YOUR_EMAIL: "omohamed7890@gmail.com",
     YOUR_FONE: "(555)123-4567",
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula eu nunc et sollicitudin. Cras pulvinar, nisi at imperdiet pharetra. ",
     YOUR_SERVICE_ID: "service_id",
@@ -145,12 +145,8 @@ const contactConfig = {
 };
 
 const socialprofils = {
-    github: "https://github.com",
-    facebook: "https://facebook.com",
-    linkedin: "https://linkedin.com",
-    twitter: "https://twitter.com",
-    youtube: "https://youtube.com",
-    twitch: "https://twitch.com",
+    github: "https://github.com/omohamed7890",
+    linkedin: "https://www.linkedin.com/in/osman-mohamed-74a421221/",
 };
 export {
     meta,
