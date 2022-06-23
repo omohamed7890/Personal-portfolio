@@ -34,7 +34,7 @@ statrt the server
 <pre>yarn start</pre>
 
 ### Thanks
-If you like this portfolio template don't forget give it a ⭐ 
+If you like this  portfolio template don't forget give it a ⭐ 
  
 
 
