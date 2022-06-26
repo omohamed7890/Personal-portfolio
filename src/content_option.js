@@ -20,20 +20,16 @@ const dataabout = {
     aboutme: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis dolor id ligula semper elementum feugiat pretium nulla. Nunc non commodo dolor. Nunc mollis dignissim facilisis. Morbi ut magna ultricies.",
 };
 const worktimeline = [{
-        jobtitle: "Designer of week",
-        where: "YAdfi",
-        date: "2020",
+        jobtitle: "Web Developer Intern at Snapbrilla Inc",
+        where: "Remote",
+        date: "May 2022 - November 2022",
     },
     {
-        jobtitle: "Designer of week",
-        where: "Jamalya",
-        date: "2019",
+        jobtitle: "Computer Science Summer Institute (CSSI) at Google",
+        where: "Remote",
+        date: "July 2022 - August 2022",
     },
-    {
-        jobtitle: "Designer of week",
-        where: "ALquds",
-        date: "2019",
-    },
+    
 ];
 
 const skills = [{
@@ -84,11 +80,11 @@ const dataportfolio = [{
 
 const contactConfig = {
     YOUR_EMAIL: "omohamed7890@gmail.com",
-    YOUR_FONE: "(555)123-4567",
+    YOUR_FONE: "(678)-929-1024",
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula eu nunc et sollicitudin. Cras pulvinar, nisi at imperdiet pharetra. ",
-    YOUR_SERVICE_ID: "service_id",
-    YOUR_TEMPLATE_ID: "template_id",
-    YOUR_USER_ID: "user_id",
+    YOUR_SERVICE_ID: "service_f4amc3c",
+    YOUR_TEMPLATE_ID: "template_863dvx8",
+    YOUR_USER_ID: "szhAsBdzOc54pPBOg",
 };
 
 const socialprofils = {
