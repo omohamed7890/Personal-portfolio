@@ -81,7 +81,7 @@ const dataportfolio = [{
 const contactConfig = {
     YOUR_EMAIL: "omohamed7890@gmail.com",
     YOUR_FONE: "(678)-929-1024",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula eu nunc et sollicitudin. Cras pulvinar, nisi at imperdiet pharetra. ",
+    description: "Contact me :)",
     YOUR_SERVICE_ID: "service_f4amc3c",
     YOUR_TEMPLATE_ID: "template_863dvx8",
     YOUR_USER_ID: "szhAsBdzOc54pPBOg",
