@@ -2,9 +2,9 @@
 
 A simple Portfolio template for developer/designers built with React. 
 
-### [live preview](https://ubaimutl.github.io/react-portfolio/)
+### [live preview](https://osmanmohamed.netlify.app/)
 
-![react portfoiio](src/assets/images/react-portfolio.png)
+![react portfoiio](src\assets\images\react-porfolio.png)
 
 
 ### Features
