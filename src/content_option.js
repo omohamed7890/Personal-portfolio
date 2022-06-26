@@ -69,7 +69,7 @@ const services = [{
 ];
 
 const dataportfolio = [{
-        img: "https://cdn.discordapp.com/attachments/972898189243994175/990689287580303400/unknown.png",
+        img: "https://raw.githubusercontent.com/omohamed7890/netflix-clone/main/netflix-ui/src/assets/netflix.png",
         desctiption: "Netflix Clone built using React, Redux Toolkit, Firebase, Styled Components, Axios, Node.js, Express and MongoDB.",
         link: "https://github.com/omohamed7890/netflix-clone",
     },
