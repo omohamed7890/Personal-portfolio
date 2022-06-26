@@ -7,7 +7,7 @@ A simple Portfolio template for developer/designers built with React.
 
 ![react portfoiio](src/assets/images/react-porfolio.png)
 
-![react portfoiio](src\assets\images\react-porfolio.png)
+
 
 
 
