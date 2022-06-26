@@ -4,11 +4,11 @@ A simple Portfolio template for developer/designers built with React.
 
 ### [live preview](https://osmanmohamed.netlify.app/)
 
-<<<<<<< HEAD
+
 ![react portfoiio](src/assets/images/react-porfolio.png)
-=======
+
 ![react portfoiio](src\assets\images\react-porfolio.png)
->>>>>>> b3e41faf950f5ddbe906bca5ec972040c2693efa
+
 
 
 ### Features
