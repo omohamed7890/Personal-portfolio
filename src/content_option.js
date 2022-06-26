@@ -69,9 +69,9 @@ const services = [{
 ];
 
 const dataportfolio = [{
-        img: "https://picsum.photos/400/?grayscale",
-        desctiption: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        img: "https://cdn.discordapp.com/attachments/972898189243994175/990689287580303400/unknown.png",
+        desctiption: "Netflix Clone built using React, Redux Toolkit, Firebase, Styled Components, Axios, Node.js, Express and MongoDB.",
+        link: "https://github.com/omohamed7890/netflix-clone",
     },
     
   
