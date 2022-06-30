@@ -17,7 +17,7 @@ const introdata = {
 
 const dataabout = {
     title: "a bit about my self",
-    aboutme: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis dolor id ligula semper elementum feugiat pretium nulla. Nunc non commodo dolor. Nunc mollis dignissim facilisis. Morbi ut magna ultricies.",
+    aboutme: "I'm a determined 18 year-old deaf fullstack software engineer with an enthusiastic approach to developing robust and scalable web apps with great user experiences.",
 };
 const worktimeline = [{
         jobtitle: "Web Developer Intern at Snapbrilla Inc",
@@ -33,25 +33,32 @@ const worktimeline = [{
 ];
 
 const skills = [{
-        name: "Python",
-        value: 90,
+        name: "MERN (MongoDB, Express, React, and Node)",
+        value: 95,
     },
     {
-        name: "Djano",
-        value: 85,
+        name: "HTML/CSS",
+        value: 98,
+    },
+    {
+        name: "Python",
+        value: 90,
     },
     {
         name: "Javascript",
         value: 80,
     },
     {
-        name: "React",
-        value: 60,
+        name: "Git, AWS, GCP, Angular, Docker, Unix, Firebase",
+        value: 75,
     },
     {
-        name: "Jquery",
-        value: 85,
+        name: "SQL",
+        value: 60,
     },
+    
+    
+    
 ];
 
 const services = [{
