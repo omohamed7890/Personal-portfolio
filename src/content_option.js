@@ -20,7 +20,7 @@ const dataabout = {
     aboutme: "I'm a determined 18 year-old deaf fullstack software engineer with an enthusiastic approach to developing robust and scalable web apps with great user experiences.",
 };
 const worktimeline = [{
-        jobtitle: "Web Developer Intern at Snapbrilla Inc",
+        jobtitle: "Full Stack Developer Intern at Snapbrilla Inc",
         where: "Remote",
         date: "May 2022 - November 2022",
     },
